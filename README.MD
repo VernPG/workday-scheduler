@@ -39,6 +39,6 @@ This project required the below :
 
 ![Preview image](./images/Screenshot%202023-10-10%20at%205.35.39 PM.png)
 
-**[Repo can be found HERE]
+**[Repo can be found HERE](https://github.com/VernPG/workday-scheduler.git)
 
-**[Workday Scheduler can be found Here]
+**[Workday Scheduler can be found Here](https://vernpg.github.io/workday-scheduler/)
