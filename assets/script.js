@@ -1,6 +1,7 @@
 // Wrap all code that interacts with the DOM in a call to jQuery to ensure that
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
+// TODO: Add code to display the current date in the header of the page.
 var currentDayDisplayEl = $("#currentDay");
 
 var today = dayjs().format("MMM DD, YYYY [at] hh:mm a");
@@ -70,7 +71,7 @@ timeBlockColor()
 // the values of the corresponding textarea elements. HINT: How can the id
 // attribute of each time-block be used to do this?
 //
-// TODO: Add code to display the current date in the header of the page.
+
 
 $("#hour-9 .description").val(localStorage.getItem("hour9"));
 $("#hour-10 .description").val(localStorage.getItem("hour10"));
